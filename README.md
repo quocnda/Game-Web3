@@ -50,7 +50,5 @@ Ensure you have the following installed:
 - Node.js
 - Metamask browser extension
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/classic-card-game.git
+# Slide about game:
+- [Slide](https://docs.google.com/presentation/d/1nneup4CAMNcX_i6y00Ozfpb_WHcf6X_V/edit#slide=id.p1)

@@ -4,7 +4,7 @@ Welcome to the Classic Card Game repository! This project integrates blockchain 
 
 ---
 
-## **Table of Contents**
+## Table of Contents
 1. [About the Project](#about-the-project)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
@@ -12,19 +12,20 @@ Welcome to the Classic Card Game repository! This project integrates blockchain 
 5. [Usage](#usage)
 6. [Team](#team)
 7. [License](#license)
+8. [Acknowledgments](#acknowledgments)
 
 ---
 
-## **About the Project**
+## About the Project
 In today's digital age, the demand for games that allow players to earn money is rising rapidly. Classic card games often lack modern mechanisms to ensure trust in asset ownership and trading methods.
 
 This project leverages blockchain technology to link each player's **Metamask wallet account** with their in-game assets, enabling secure ownership and trade of assets. By combining the thrill of card games with the security and potential of blockchain, we aim to redefine the gaming experience.
 
-![About Game]()
+![About Game](uploads/about_game.png)
 
 ---
 
-## **Features**
+## Features
 - **Blockchain Integration**: In-game assets are securely linked to your Metamask wallet.
 - **In-Game Ethereum Deposits**: Exchange Ethereum for in-game currency to enhance gameplay.
 - **Card Marketplace**: Trade and package cards securely through blockchain.
@@ -35,7 +36,7 @@ This project leverages blockchain technology to link each player's **Metamask wa
 
 ---
 
-## **Technologies Used**
+## Technologies Used
 - **Blockchain**: Ethereum integration for secure asset ownership.
 - **Wallet**: Metamask for user authentication and asset linking.
 - **Frontend**: Web-based user interface.
@@ -43,10 +44,13 @@ This project leverages blockchain technology to link each player's **Metamask wa
 
 ---
 
-## **Getting Started**
+## Getting Started
 ### Prerequisites
 Ensure you have the following installed:
 - Node.js
 - Metamask browser extension
 
-
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/classic-card-game.git

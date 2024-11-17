@@ -20,7 +20,7 @@ In today's digital age, the demand for games that allow players to earn money is
 
 This project leverages blockchain technology to link each player's **Metamask wallet account** with their in-game assets, enabling secure ownership and trade of assets. By combining the thrill of card games with the security and potential of blockchain, we aim to redefine the gaming experience.
 
-![About Game](uploads/about_game.png)
+![About Game]()
 
 ---
 
@@ -49,7 +49,4 @@ Ensure you have the following installed:
 - Node.js
 - Metamask browser extension
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/classic-card-game.git
+
